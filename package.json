@@ -1,0 +1,19 @@
+{
+  "name": "razorpay_fe",
+  "version": "1.0.0",
+  "description": "Razorpay website recreation using HTML,Tailwin CSS,JS",
+  "main": "script.js",
+  "scripts": {
+    "start": "vite" 
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "vite": "^5.0.12"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.17",
+    "postcss": "^8.4.33",
+    "tailwindcss": "^3.4.1"
+  }
+}
