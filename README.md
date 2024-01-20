@@ -24,6 +24,12 @@ This project is a Razorpay clone, aiming to replicate the basic functionality of
 
 - **JavaScript:** Interactive features and client-side scripting are implemented using JavaScript, enhancing the user experience and handling payment-related functionalities.
 
+ ## Screenshot
+ 
+  <img src="https://drive.google.com/file/d/1dupnDsZhiLrhgY3AAoLF9bhBlehu8YUx/view?usp=sharing">
+
+  <img src="https://drive.google.com/file/d/1P16hq8IVAv3UMBkD2AESnrmH24M_cGRz/view?usp=sharing">
+
 ## Features
 
 - **Payment Gateway Integration:** Simulates the Razorpay payment gateway experience.
