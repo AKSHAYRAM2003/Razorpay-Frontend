@@ -4,11 +4,13 @@
   "description": "Razorpay website recreation using HTML,Tailwin CSS,JS",
   "main": "script.js",
   "scripts": {
-    "start": "vite" 
+    "start": "vite"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "feather": "^0.0.5",
+    "feature": "^1.1.0",
     "vite": "^5.0.12"
   },
   "devDependencies": {
