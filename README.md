@@ -26,9 +26,7 @@ This project is a Razorpay clone, aiming to replicate the basic functionality of
 
  ## Screenshot
  
-  <img src="https://drive.google.com/file/d/1dupnDsZhiLrhgY3AAoLF9bhBlehu8YUx/view?usp=sharing">
-
-  <img src="https://drive.google.com/file/d/1P16hq8IVAv3UMBkD2AESnrmH24M_cGRz/view?usp=sharing">
+  <img src="https://www.drip.com/hs-fs/hubfs/8%20image1-2.png?width=1336&height=608&name=8%20image1-2.png">
 
 ## Features
 
