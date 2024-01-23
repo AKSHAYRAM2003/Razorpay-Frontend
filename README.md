@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-=======
+
 # Razorpay Clone
 
 A simple Razorpay clone project built with HTML, Tailwind CSS, and JavaScript.
@@ -30,11 +29,11 @@ This project is a Razorpay clone, aiming to replicate the basic functionality of
  
   <img src="https://www.drip.com/hs-fs/hubfs/8%20image1-2.png?width=1336&height=608&name=8%20image1-2.png">
 
-## Features
+<!-- ## Features
 
 - **Payment Gateway Integration:** Simulates the Razorpay payment gateway experience.
 - **Responsive Design:** Ensures a seamless user experience across various devices.
-- **Customizable:** Tailwind CSS allows for easy customization of the project's appearance.
+- **Customizable:** Tailwind CSS allows for easy customization of the project's appearance. -->
 
 ## Installation
 
@@ -43,4 +42,4 @@ This project is a Razorpay clone, aiming to replicate the basic functionality of
    ```bash
    git clone https://github.com/AKSHAYRAM2003/razorpay-clone.git
 
->>>>>>> 2887fad8a19f6a82ca92405426204748761780aa
+
